@@ -1,0 +1,7 @@
+D:\InterviewS\PREPARING\Reflection\Reflection\Reflection\bin\Debug\Reflection.exe.config
+D:\InterviewS\PREPARING\Reflection\Reflection\Reflection\bin\Debug\Reflection.exe
+D:\InterviewS\PREPARING\Reflection\Reflection\Reflection\bin\Debug\Reflection.pdb
+D:\InterviewS\PREPARING\Reflection\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\Reflection\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\InterviewS\PREPARING\Reflection\Reflection\Reflection\obj\Debug\Reflection.exe
+D:\InterviewS\PREPARING\Reflection\Reflection\Reflection\obj\Debug\Reflection.pdb
